@@ -1,6 +1,7 @@
 
 # bplusTree
-make bplusTree by Java
+### make bplusTree by Java
+### assignment in Database System class (2017-2, Hanyang Univ)
 
 ## Code Summary 
 - b+tree는 키에 의해서 각각 식별되는 레코드의 효율적인 삽입, 검색과 삭제를 통해 정렬된 데이터를 표현하기 위한 트리자료구조의 일종.
